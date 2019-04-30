@@ -7,5 +7,5 @@ Inputs:
 * Spatial estimates of livestock distribution 
 
 Output:
-* R(*x*,*t*)$ estimate for each spatial grid cell *x* and day *t*. 
+* R(*x*,*t*) estimate for each spatial grid cell *x* and day *t*. 
 
