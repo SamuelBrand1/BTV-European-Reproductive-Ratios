@@ -9,4 +9,4 @@ We give a script for cleaning and using the relevant E-OBS climate data in /data
 
 In /reproductive_ratios.
 
-Ee give the relevant functions, supply data for the E-OBS spatial grid square containing the Netherlands trap sites, and a MATLAB live script describing the calculations, given as a step-by-step demonstration.
+We give the relevant functions, supply data for the E-OBS spatial grid square containing the Netherlands trap sites, and a MATLAB live script describing the calculations, given as a step-by-step demonstration.
